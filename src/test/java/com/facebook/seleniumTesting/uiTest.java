@@ -17,7 +17,7 @@ public class uiTest
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://www.strava.com/");
-		
+		// comment added to test
 
 		
     }
